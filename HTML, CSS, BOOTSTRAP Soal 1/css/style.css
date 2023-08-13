@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(3, 3, 90);
+}
+
+h1 {
+  text-align: center;
+  color: skyblue;
+}
+
+p {
+  margin-top: 20pt;
+}
+li {
+  color: rgb(42, 172, 223);
+  text-transform: uppercase;
+}
+
+table {
+  color: white;
+  margin-top: 10pt;
+}
